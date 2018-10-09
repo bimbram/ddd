@@ -3,3 +3,10 @@
 -A list in programming is called an array
 -Giving your array a nickname
 -A nickname is called a variable so that we can reference the value later
+
+V1 Requirements
+1. It should have a place to store todos (this lesson)
+2. It should have a way to display todos
+3. It should have a way to add new todos
+4. It should have a way to change a todo
+5. It should have a way to delete a todo
