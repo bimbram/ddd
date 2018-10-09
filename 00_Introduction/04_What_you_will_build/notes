@@ -1,0 +1,9 @@
+Our application is ugly todoapp
+
+1. first feature is to add todo
+2. second feature is to toggle a single item
+3. third feature is to click everything at once
+4. fourth feature is edit a todo
+5. fifth feature is to delete a todo
+6. We're not used local storage
+7. We're going to learn the main feature of the todo list
